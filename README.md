@@ -1,2 +1,7 @@
 # Breast-Cancer-Detection-Using-CNN
-first repository
+
+Hello!
+
+This is my first repository.
+
+
